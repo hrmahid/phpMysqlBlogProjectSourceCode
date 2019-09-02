@@ -1,0 +1,30 @@
+.titlepost{
+	border-bottom:5px ridge gold;
+}
+.posts{
+	border:2px solid black;
+	padding:5px;
+	margin-bottom:5px;
+}
+.posts img{
+	width:100px;
+	height:100px;
+	float:left;
+	margin-right:5px;
+}
+.sidebarpost{
+	border:2px solid black;
+}
+.sidebar ul{
+	list-style:none;
+}
+.sidebar ul li{
+	border-bottom:2px dashed orange;
+	
+}
+.sidebar ul li a:hover{
+	color:red;
+}
+.adminpanel{
+	min-height:500px;
+}
