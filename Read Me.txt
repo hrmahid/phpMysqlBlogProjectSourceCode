@@ -1,0 +1,5 @@
+Link For Admin Login:
+http://127.0.0.1/myblog/adminpanel/
+
+email: admin@gmail.com
+password: 123456
